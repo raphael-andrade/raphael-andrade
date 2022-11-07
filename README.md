@@ -2,7 +2,7 @@
 ### Um projetista mecânico buscando novos desafios e encontrou na programação uma nova motivação.
 
 - 🔭 Trabalho com desenvolvimento de projetos... *mecânicos*.
-- 🌱 Atualmente estou estudando **Junit**.
+- 🌱 Atualmente estou estudando **API Rest, AWS e Docker**.
 - Tecnologias que tenho conhecimento:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="80" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" />
